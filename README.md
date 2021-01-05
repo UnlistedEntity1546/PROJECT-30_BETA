@@ -1,1 +1,2 @@
-# PROJECT-30_BETA
+# p5.play-boilerplate
+Boiler plate for p5.play
